@@ -1,5 +1,3 @@
-#ΜΠΟΥΡΟΓΙΑΝΝΗ ΚΩΝΣΤΑΝΤΙΝΑ - ΑΜ: 2775 - cs02775
-
 import sys 
 import os
 import csv
